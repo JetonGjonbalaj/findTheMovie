@@ -1,2 +1,2 @@
 # findTheMovie
-just the game to find the movie
+just the game to guess the movie
