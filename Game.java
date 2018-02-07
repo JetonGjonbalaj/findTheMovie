@@ -9,7 +9,7 @@ public class Game {
 
     private int chances = 10;
 
-    // When the game starts
+    // This will start the game
     public void start() {
         for (int i = 0; i < this.movieToFindAsChar.length; i++)
             if (this.movieToFindAsChar[i] == ' ')
