@@ -62,7 +62,7 @@ public class Game {
         return true;
     }
 
-    // It check if user found a letter
+    // It checks if user found a letter
     public boolean guessedLetter(char letter) {
         for (int i = 0; i < this.movieToFindAsChar.length; i++)
             if (letter == this.movieToFindAsChar[i])  return true;
